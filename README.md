@@ -1,6 +1,6 @@
-# Botium Toys Security Audit
+<H1></H1> Botium Toys Security Audit </H1>
 
-**Description:**
+# Description: # 
 
 This repository contains the security audit conducted for Botium Toys, a small U.S.-based business that develops and sells toys both in-store and online. As the company expands its online presence, ensuring the security of its IT infrastructure and compliance with relevant regulations has become a priority.
 

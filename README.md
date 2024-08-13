@@ -67,18 +67,4 @@ This audit aims to provide Botium Toys with actionable insights to strengthen th
 
 ## Recommendations (optional)
 
-**Recommendations (optional):** In this section, provide recommendations related to controls and/or compliance needs that your IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture.
-
-Multiple controls need to be implemented to improve Botium Toys’ security posture and better ensure the confidentiality of sensitive information, including:
-- **Least Privilege**: Implement the principle of least privilege to limit access to only those who need it.
-- **Disaster Recovery Plans**: Develop and test disaster recovery plans to ensure business continuity.
-- **Password Policies**: Establish and enforce strong password policies.
-- **Separation of Duties**: Ensure critical tasks are divided among multiple individuals to reduce the risk of fraud.
-- **Intrusion Detection System (IDS)**: Implement an IDS to monitor and respond to potential security threats.
-- **Ongoing Legacy System Management**: Regularly update and manage legacy systems to minimize vulnerabilities.
-- **Encryption**: Use encryption to protect sensitive data both in transit and at rest.
-- **Password Management System**: Employ a password management system to securely handle credentials.
-
-To address gaps in compliance, Botium Toys needs to:
-- **Implement Controls**: Such as least privilege, separation of duties, and encryption.
-- **Properly Classify Assets**: Identify additional controls that may need to be implemented to improve their security posture and better protect sensitive information.
+In this section, provide recommendations, related to controls and/or compliance needs, that your IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture. Multiple controls need to be implemented to improve Botium Toys’ security posture and better ensure the confidentiality of sensitive information, including: Least Privilege, disaster recovery plans, password policies, separation of duties, an IDS, ongoing legacy system management, encryption, and a password management system. To address gaps in compliance, Botium Toys needs to implement controls such as Least Privilege, separation of duties, and encryption. The company also needs to properly classify assets, to identify additional controls that may need to be implemented to improve their security posture and better protect sensitive information.

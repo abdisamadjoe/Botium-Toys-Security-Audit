@@ -39,28 +39,19 @@ This audit aims to provide Botium Toys with actionable insights to strengthen th
 
 | Yes | No  | Best Practice | Explanation                       |
 |-----|-----|---------------|-----------------------------------|
-| [ ] | [ ] | Best Practice 1 | Explanation of the PCI DSS requirement. |
-| [ ] | [ ] | Best Practice 2 | Explanation of the PCI DSS requirement. |
-| [ ] | [ ] | Best Practice 3 | Explanation of the PCI DSS requirement. |
-| [ ] | [ ] | Best Practice 4 | Explanation of the PCI DSS requirement. |
+|  |  | Best Practice 1 | Explanation of the PCI DSS requirement. |
 
 ### General Data Protection Regulation (GDPR)
 
 | Yes | No  | Best Practice | Explanation                       |
 |-----|-----|---------------|-----------------------------------|
-| [ ] | [ ] | Best Practice 1 | Explanation of the GDPR requirement. |
-| [ ] | [ ] | Best Practice 2 | Explanation of the GDPR requirement. |
-| [ ] | [ ] | Best Practice 3 | Explanation of the GDPR requirement. |
-| [ ] | [ ] | Best Practice 4 | Explanation of the GDPR requirement. |
+|  |  | Best Practice 1 | Explanation of the PCI DSS requirement. |
 
 ### System and Organizations Controls (SOC type 1, SOC type 2)
 
 | Yes | No  | Best Practice | Explanation                       |
 |-----|-----|---------------|-----------------------------------|
-| [ ] | [ ] | Best Practice 1 | Explanation of the SOC type 1/2 requirement. |
-| [ ] | [ ] | Best Practice 2 | Explanation of the SOC type 1/2 requirement. |
-| [ ] | [ ] | Best Practice 3 | Explanation of the SOC type 1/2 requirement. |
-| [ ] | [ ] | Best Practice 4 | Explanation of the SOC type 1/2 requirement. |
+|  |  | Best Practice 1 | Explanation of the PCI DSS requirement. |
 
 ## Recommendations
 

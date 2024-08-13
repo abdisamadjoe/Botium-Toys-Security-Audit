@@ -19,17 +19,17 @@ This audit aims to provide Botium Toys with actionable insights to strengthen th
 |  | ✔️ | Least Privilege | Currently, all employees have access to customer data; privileges need to be limited to reduce the risk of a breach. |
 |  | ✔️ | Disaster recovery plans | There are no disaster recovery plans in place. These need to be implemented to ensure business continuity. |
 |  | ✔️ | Password policies | Employee password requirements are minimal, which could allow a threat actor to more easily access secure data/other assets via employee work equipment/the internal network. |
-| [ ] | ✔️ | Separation of duties | Needs to be implemented to reduce the possibility of fraud/access to critical data, since the company CEO currently runs day-to-day operations and manages the payroll. |
-| [✔️] | [ ] | Firewall | The existing firewall blocks traffic based on an appropriately defined set of security rules. |
-| [ ] | [✔️] | Intrusion detection system (IDS) | The IT department needs an IDS in place to help identify possible intrusions by threat actors. |
-| [ ] | [✔️] | Backups | The IT department needs to have backups of critical data, in the case of a breach, to ensure business continuity.|
-| [✔️] | [ ] | Antivirus software | Antivirus software is installed and monitored regularly by the IT department. |
-| [ ] | [✔️] | Manual monitoring, maintenance, and intervention for legacy systems | The list of assets notes the use of legacy systems. The risk assessment indicates that these systems are monitored and maintained, but there is not a regular schedule in place for this task and procedures/ policies related to intervention are unclear, which could place these systems at risk of a breach. |
-| [ ] | [✔️] | Encryption | Encryption is not currently used; implementing it would provide greater confidentiality of sensitive information. |
-| [ ] | [✔️] | Password management system| There is no password management system currently in place; implementing this control would improve IT department/other employee productivity in the case of password issues. |
-| [✔️] | [ ] | Locks (offices, storefront,warehouse) | The store’s physical location, which includes the company’s main offices, store front, and warehouse of products, has sufficient locks. |
-| [✔️] | [ ] | Closed-circuit television (CCTV) surveillance | CCTV is installed/functioning at the store’s physical location. |
-| [✔️] | [ ] | Fire detection/prevention (fire alarm, sprinkler system, etc.) | Botium Toys’ physical location has a functioning fire detection and prevention system. |
+|  | ✔️ | Separation of duties | Needs to be implemented to reduce the possibility of fraud/access to critical data, since the company CEO currently runs day-to-day operations and manages the payroll. |
+| ✔️ |  | Firewall | The existing firewall blocks traffic based on an appropriately defined set of security rules. |
+|  | ✔️ | Intrusion detection system (IDS) | The IT department needs an IDS in place to help identify possible intrusions by threat actors. |
+|  | ✔️ | Backups | The IT department needs to have backups of critical data, in the case of a breach, to ensure business continuity.|
+| ✔️ |  | Antivirus software | Antivirus software is installed and monitored regularly by the IT department. |
+|  | ✔️ | Manual monitoring, maintenance, and intervention for legacy systems | The list of assets notes the use of legacy systems. The risk assessment indicates that these systems are monitored and maintained, but there is not a regular schedule in place for this task and procedures/ policies related to intervention are unclear, which could place these systems at risk of a breach. |
+|  | ✔️ | Encryption | Encryption is not currently used; implementing it would provide greater confidentiality of sensitive information. |
+|  | ✔️ | Password management system| There is no password management system currently in place; implementing this control would improve IT department/other employee productivity in the case of password issues. |
+| ✔️ |  | Locks (offices, storefront,warehouse) | The store’s physical location, which includes the company’s main offices, store front, and warehouse of products, has sufficient locks. |
+| ✔️ |  | Closed-circuit television (CCTV) surveillance | CCTV is installed/functioning at the store’s physical location. |
+| ✔️ |  | Fire detection/prevention (fire alarm, sprinkler system, etc.) | Botium Toys’ physical location has a functioning fire detection and prevention system. |
 
 
 

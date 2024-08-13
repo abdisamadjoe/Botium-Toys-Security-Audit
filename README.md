@@ -1,4 +1,4 @@
-<H1></H1> Botium Toys Security Audit </H1>
+<H1>Botium Toys Security Audit</H1>
 
 # Description: # 
 

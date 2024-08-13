@@ -16,6 +16,22 @@ This audit aims to provide Botium Toys with actionable insights to strengthen th
 
 | Yes | No  | Control | Explanation |
 |-----|-----|---------|-------------|
+| [ ] | [✔️ ] | Least Privilege | Explanation of the first control to be assessed. |
+| [ ] | [✔️ ] | Disaster recovery plans | Explanation of the second control to be assessed. |
+| [ ] | [ ✔️] | Password policies | Explanation of the third control to be assessed. |
+| [ ] | [ ✔️] | Separation of duties | Explanation of the fourth control to be assessed. |
+| [ ] | [ ] | Firewall | Explanation of the first control to be assessed. |
+| [ ] | [ ] | Intrusion detection system (IDS) | Explanation of the second control to be assessed. |
+| [ ] | [ ] | Backups | Explanation of the third control to be assessed. |
+| [ ] | [ ] | Antivirus software | Explanation of the fourth control to be assessed. |
+| [ ] | [ ] | Manual monitoring, maintenance, and intervention for legacy systems | Explanation of the first control to be assessed. |
+| [ ] | [ ] | Encryption | Explanation of the second control to be assessed. |
+| [ ] | [ ] | Password management system| Explanation of the third control to be assessed. |
+| [ ] | [ ] | Locks (offices, storefront,warehouse) | Explanation of the fourth control to be assessed. |
+| [ ] | [ ] | Closed-circuit television (CCTV) surveillance | Explanation of the first control to be assessed. |
+| [ ] | [ ] | Fire detection/prevention (fire alarm, sprinkler system, etc.) | Explanation of the second control to be assessed. |
+| [ ] | [ ] | Control 3 | Explanation of the third control to be assessed. |
+| [ ] | [ ] | Control 4 | Explanation of the fourth control to be assessed. |
 | [ ] | [ ] | Control 1 | Explanation of the first control to be assessed. |
 | [ ] | [ ] | Control 2 | Explanation of the second control to be assessed. |
 | [ ] | [ ] | Control 3 | Explanation of the third control to be assessed. |

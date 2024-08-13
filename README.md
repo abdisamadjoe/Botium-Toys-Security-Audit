@@ -14,11 +14,13 @@ This audit aims to provide Botium Toys with actionable insights to strengthen th
 
 ## Controls Assessment Checklist
 
-| Yes | No  | Control Explanation |
-|-----|-----|---------------------|
-| [ ] | [ ] | Explanation of the first control to be assessed. |
-| [ ] | [ ] | Explanation of the second control to be assessed. |
-| [ ] | [ ] | Explanation of the third control to be assessed. |
+| Yes | No  | Control | Explanation |
+|-----|-----|---------|-------------|
+| [ ] | [ ] | Control 1 | Explanation of the first control to be assessed. |
+| [ ] | [ ] | Control 2 | Explanation of the second control to be assessed. |
+| [ ] | [ ] | Control 3 | Explanation of the third control to be assessed. |
+| [ ] | [ ] | Control 4 | Explanation of the fourth control to be assessed. |
+
 
 ## Compliance Checklist
 
